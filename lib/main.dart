@@ -96,7 +96,7 @@ Widget build(BuildContext context) {
 
 
 
-//Página Resultado 2 contruir um arquivo separado
+//Página Resultado 2 contruir um arquivo separado arrumar erro
 
 class ResultadoPage extends StatelessWidget {
   final String pergunta;
