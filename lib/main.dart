@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'componentes/pagina1.dart';
-import 'componentes/pagina2.dart';
+import 'package:flutter_atividade_form/componentes/pagina1.dart';
+
 
 void main() {
   runApp(const MyApp());

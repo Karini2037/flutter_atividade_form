@@ -1,0 +1,2 @@
+C:/Users/karin/OneDrive - SENAC - SP/Trabalhos/flutter_atividade_form/android/app/.cxx/Debug/1u6u2jh2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/karin/OneDrive - SENAC - SP/Trabalhos/flutter_atividade_form/android/app/.cxx/Debug/1u6u2jh2/arm64-v8a/CMakeFiles/rebuild_cache.dir
